@@ -201,4 +201,4 @@ the reservation station’s name (meaning no next issued instruction will write 
 👤 **Nahla Sultan, Youssef Hedaya, Omar Eissa**
 
 * Github: [@nahla.sultan](https://github.com/nahla.sultan)
-* Github: [@nahla.sultan](https://github.com/FONS127)
+* Github: [@FONS127](https://github.com/FONS127)
